@@ -4,6 +4,28 @@ Stone Optimized Shorthand is a full alphabet replacement shorthand that focuses 
 
 ![Alt Text](/art/overlay.svg?raw=true&sanitize=true "Stone Optimized Shorthand in Magenta over standard text")
 
+
+## Table of Contents
+
+<!-- toc -->
+
+- [Getting Started](#getting-started)
+- [Quick Reference](#quick-reference)
+- [The characters](#the-characters)
+- [What is this and why should you use it?](#what-is-this-and-why-should-you-use-it)
+- [Features](#features)
+- [Philosophy, Methodology](#philosophy-methodology)
+- [Influences](#influences)
+  * [Ford Simplified Shorthand](#ford-simplified-shorthand)
+  * [Teeline Shorthand](#teeline-shorthand)
+- [Data Sources](#data-sources)
+  * [Letter Frequency](#letter-frequency)
+  * [English Letter Frequency Counts: Mayzner Revisited by Peter Norvig](#english-letter-frequency-counts-mayzner-revisited-by-peter-norvig)
+- [Other Related Resources](#other-related-resources)
+- [Contributors](#contributors)
+
+<!-- tocstop -->
+
 ## Getting Started
 
 1. Print out the [Quick Reference](#quick-reference) or put in on your phone or favorite screen / device.

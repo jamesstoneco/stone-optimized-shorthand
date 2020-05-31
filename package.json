@@ -1,0 +1,21 @@
+{
+  "name": "stone-optimized-shorthand",
+  "version": "1.0.0",
+  "description": "Stone Optimized Shorthand is a full alphabet replacement shorthand that focuses on reducing and streamlining the strokes as much as possible, focusing that speed on the most commonly used characters in US English.",
+  "scripts": {
+    "toc": "markdown-toc -i readme.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesstoneco/stone-optimized-shorthand.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesstoneco/stone-optimized-shorthand/issues"
+  },
+  "homepage": "https://github.com/jamesstoneco/stone-optimized-shorthand#readme",
+  "dependencies": {
+    "markdown-toc": "^1.2.0"
+  }
+}
